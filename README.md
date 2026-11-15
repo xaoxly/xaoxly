@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**xaoxly/xaoxly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <table>
+    <tr>
+      <!-- LEFT SIDE: BIG IMAGE -->
+      <td width="55%" align="center" valign="middle">
+        <img
+          src="https://i.pinimg.com/736x/00/70/33/00703351ad3bbd429ac70017ddc03b7b.jpg"
+          width="420"
+          alt="Profile picture"
+        />
+      </td>
+      
+      <!-- RIGHT SIDE: LINKS -->
+  <td width="45%" align="center" valign="middle">
+        <div style="font-family: 'Arial Narrow', Arial, sans-serif; font-weight: bold; font-style: italic;">
 
-Here are some ideas to get you started:
+  <p style="margin-bottom: 35px;">
+            <a href="https://xaoxily.atabook.org/" style="color: #ffffff; font-size: 23px;">
+              Atabook
+            </a>
+          </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p style="margin-bottom: 35px;">
+            <a href="https://xao.straw.page" style="color: #bdbdbd; font-size: 23px;">
+              strawpage
+            </a>
+          </p>
+
+  <p style="margin-bottom: 35px;">
+            <a href="https://en.pronouns.page/@Xaoxly" style="color: #ffffff; font-size: 23px;">
+              prns
+            </a>
+          </p>
+
+  </div>
+      </td>
+    </tr>
+  </table>
+</div>
