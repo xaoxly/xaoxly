@@ -1,6 +1,5 @@
 
 <div align="center">
-  <table>
     <tr>
      
   <td width="55%" align="center" valign="middle">
@@ -35,5 +34,4 @@
   </div>
       </td>
     </tr>
-  </table>
 </div>
