@@ -1,28 +1,28 @@
-<div>
-  <img src="https://i.pinimg.com/736x/00/70/33/00703351ad3bbd429ac70017ddc03b7b.jpg"
-       width="430"
-       align="left"
-       alt="Profile picture">
 
-  <div align="right">
-    <br><br><br><br>
+<div align="center">
+</div>
 
-<font face="Arial Narrow, Arial, sans-serif" color="#d0d0d0">
-      <b><i>
-        <a href="https://xaoxily.atabook.org/" style="color: #d0d0d0;">Atabook</a>
-          
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="left" width="390" src="https://i.pinimg.com/736x/00/70/33/00703351ad3bbd429ac70017ddc03b7b.jpg">
 
-<a href="https://xao.straw.page" style="color: #d0d0d0;">strawpage</a>
+<div align="right">
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="220" src="https://i.pinimg.com/1200x/db/db/e1/dbdbe1f1ca4a17abeb22900630c4d01e.jpg">
 
-<a href="https://en.pronouns.page/@Xaoxly" style="color: #d0d0d0;">prns</a>
-      </i></b>
-    </font>
+<br>
 
- <br><br><br>
-  </div>
+<strong><em>
+<a href="https://xaoxily.atabook.org/" target="_blank">ATABOOK</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://xao.straw.page" target="_blank">STRAWPAGE</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://en.pronouns.page/@Xaoxly" target="_blank">PRNS</a>
+</em></strong>
+
+<br>
+
+<img width="220" src="https://i.pinimg.com/1200x/db/db/e1/dbdbe1f1ca4a17abeb22900630c4d01e.jpg">
+
 </div>
 
 <br clear="all">
+
