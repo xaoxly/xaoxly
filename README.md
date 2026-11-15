@@ -2,8 +2,8 @@
 <div align="center">
   <table>
     <tr>
-      <!-- LEFT SIDE: BIG IMAGE -->
-      <td width="55%" align="center" valign="middle">
+     
+  <td width="55%" align="center" valign="middle">
         <img
           src="https://i.pinimg.com/736x/00/70/33/00703351ad3bbd429ac70017ddc03b7b.jpg"
           width="420"
@@ -11,7 +11,6 @@
         />
       </td>
       
-      <!-- RIGHT SIDE: LINKS -->
   <td width="45%" align="center" valign="middle">
         <div style="font-family: 'Arial Narrow', Arial, sans-serif; font-weight: bold; font-style: italic;">
 
