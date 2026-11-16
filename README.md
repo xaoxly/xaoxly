@@ -1,38 +1,25 @@
 
-<table>
-  <tr>
-    <td width="55%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/736x/00/70/33/00703351ad3bbd429ac70017ddc03b7b.jpg" width="420">
-    </td>
+<div align="center">
 
-  <td width="45%" align="left" valign="middle">
-      <p>
-        <a href="https://xaoxily.atabook.org/">
-          <font color="#D3D3D3" face="Arial Narrow">
-            <b><i>Atabook</i></b>
-          </font>
-        </a>
-      </p>
+  <img src="https://media.discordapp.net/attachments/1408923363975368909/1571954945186336911/image.png?ex=6afc9ca0&is=6afb4b20&hm=826627c03ae22a57f6858443b31e193a2fa1241928cfce8fbf14ba662c7bc9a0&format=webp&quality=lossless"
+       width="350"
+       align="left"
+       alt="Profile picture">
 
-<br><br>
+  <br clear="left">
 
-  <p>
-        <a href="https://xao.straw.page">
-          <font color="#D3D3D3" face="Arial Narrow">
-            <b><i>strawpage</i></b>
-          </font>
-        </a>
-      </p>
+  <p style="font-family: Gaegu, cursive; color: #abc8c8; font-size: 25px;">
+    <a href="https://xaoxily.atabook.org/" style="color: #abc8c8;">
+      <mark>Atabook</mark>
+    </a>
+    &nbsp; 
+    <a href="https://xao.straw.page" style="color: #abc8c8;">
+      <mark>strawpage</mark>
+    </a>
+    &nbsp;
+    <a href="https://en.pronouns.page/@Xaoxly" style="color: #abc8c8;">
+      <mark>prns</mark>
+    </a>
+  </p>
 
-  <br><br>
-
-  <p>
-        <a href="https://en.pronouns.page/@Xaoxly">
-          <font color="#D3D3D3" face="Arial Narrow">
-            <b><i>prns</i></b>
-          </font>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+</div>
